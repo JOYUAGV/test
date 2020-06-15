@@ -1,2 +1,2 @@
 # -test
-github learning tutoril
+github learning tutorial
